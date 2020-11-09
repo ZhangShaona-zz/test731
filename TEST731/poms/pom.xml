@@ -11,9 +11,9 @@
   <modules>
     <module>code/beans</module>
     <module>code/routines</module>
+    <module>jobs/process/job10_0.1</module>
     <module>jobs/process/job1_0.1</module>
     <module>jobs/process/job2_0.1</module>
-    <module>jobs/process/job2_copy_0.1</module>
     <module>jobs/process/job3_0.1</module>
     <module>jobs/process/job4_0.1</module>
     <module>jobs/process/job5_0.1</module>
