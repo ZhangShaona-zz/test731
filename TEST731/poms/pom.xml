@@ -14,11 +14,11 @@
     <module>jobs/process/job1_0.1</module>
     <module>jobs/process/job2_0.1</module>
     <module>jobs/process/job3_0.1</module>
-    <module>jobs/process/job3_copy_0.1</module>
     <module>jobs/process/job4_0.1</module>
     <module>jobs/process/job4_copy_0.1</module>
     <module>jobs/process/job5_0.1</module>
     <module>jobs/process/job6_0.1</module>
+    <module>jobs/process/job7_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
