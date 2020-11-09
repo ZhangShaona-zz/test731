@@ -37,14 +37,14 @@
       <version>2.12.1</version>
     </dependency>
     <dependency>
-      <groupId>org.talend.daikon</groupId>
-      <artifactId>crypto-utils</artifactId>
-      <version>0.31.10</version>
-    </dependency>
-    <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
       <version>1.7.25</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.daikon</groupId>
+      <artifactId>crypto-utils</artifactId>
+      <version>0.31.10</version>
     </dependency>
   </dependencies>
   <build>
